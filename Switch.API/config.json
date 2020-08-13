@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "SwicthDB": "Server=localhost;userid=root;password=root;database=SwicthDB"
+    }
+}
